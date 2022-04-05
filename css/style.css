@@ -1,0 +1,32 @@
+body
+{
+  background-color: #D5ECC2;
+}
+h1
+{
+  color: #FFAD60;
+  font-style: oblique;
+  font-size: 120px;
+}
+img:hover
+{
+  background-color: gold;
+}
+/*******************CLASS SELECTOR*******************/
+.bacon
+{
+  background-color: red;
+}
+.goat
+{
+  background-color: green;
+}
+.circular
+{
+  border-radius: 100%;
+}
+/*******************ID SELECTOR*******************/
+#heading
+{
+  color: #FFAAA7;
+}
